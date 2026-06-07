@@ -1,6 +1,6 @@
 # 🚗 Carrinho Robótico com Controle Bluetooth
 
-Projeto desenvolvido durante o curso de **Eletroeletrônica do SENAI**, utilizando Arduino e controle remoto via Bluetooth/Serial.
+Projeto desenvolvido durante o curso de **Programação e Interação da Plataforma Arduino** no **SENAI Itatiba**, utilizando Arduino e controle remoto via Bluetooth/Serial.
 
 ---
 
@@ -52,7 +52,7 @@ Carrinho robótico de 4 rodas controlado remotamente por comandos seriais (Bluet
 | 2x Motor DC        | Tração do carrinho                     |
 | Bateria 9V         | Alimentação do sistema                 |
 | Chassi acrílico    | Estrutura física do carrinho           |
-| Buzzer             | Saída de áudio (pino 8)                |
+
 
 ---
 
@@ -66,14 +66,14 @@ Carrinho robótico de 4 rodas controlado remotamente por comandos seriais (Bluet
 | 10           | IN2             |
 | 11           | IN3             |
 | 12           | IN4             |
-| 8            | Buzzer          |
+
 
 ---
 
 ## 📸 Fotos do Projeto
 
-> <img width="1600" height="1130" alt="image" src="https://github.com/user-attachments/assets/0b292481-7eb0-4832-a693-433da916269b" />
-
+> *<img width="1600" height="1130" alt="image" src="https://github.com/user-attachments/assets/9edd79df-fd59-4fb4-b95c-5127e85f0ed8" />
+*
 
 ---
 
